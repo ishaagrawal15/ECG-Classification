@@ -14,6 +14,18 @@ This repository contains code, data, and results from my Master's thesis project
 - Lower performance on **MI**, **HYP**, and **CD**, influenced by **class imbalance**
 - Strong correlation between phase-folded features and EcgDeli/UniG (e.g., R amplitude: 95%)
 
+## 📄 File Descriptions
+
+| File Name                   | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| `ECG Project -- 1.ipynb`    | Main feature extraction notebook using the phase-folded method.             |
+| `MachineLearning -- 2.ipynb`| Applies LightGBM for multiclass and binary classification on extracted features. |
+| `EcgDeliCorrelation -- 4.ipynb` | Compares phase-folded features with EcgDeli using Pearson correlation.       |
+| `UnigCorrelation -- 3.ipynb`    | Cross-correlates features from phase-folded extraction with UniG features.    |
+| `Thesis.pdf`                | Final MSc thesis document summarising the full methodology and findings.    |
+| `README.md`                | Project overview and documentation.                                         |
+
+
 ## Citation
 If using this project or methods, please cite:
 > Agrawal, I. (2025). *Parameterising ECG Waveforms to Uncover Pathology: A Phase-Folded Approach*. MSc Thesis, University of Aberdeen.
