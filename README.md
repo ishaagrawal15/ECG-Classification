@@ -20,10 +20,11 @@ This repository contains code, data, and results from my Master's thesis project
 |----------------------------|-----------------------------------------------------------------------------|
 | `ECG Project -- 1.ipynb`    | Main feature extraction notebook using the phase-folded method.             |
 | `MachineLearning -- 2.ipynb`| Applies LightGBM for multiclass and binary classification on extracted features. |
-| `EcgDeliCorrelation -- 4.ipynb` | Compares phase-folded features with EcgDeli using Pearson correlation.       |
 | `UnigCorrelation -- 3.ipynb`    | Cross-correlates features from phase-folded extraction with UniG features.    |
+| `EcgDeliCorrelation -- 4.ipynb` | Compares phase-folded features with EcgDeli using Pearson correlation.       |
 | `Thesis.pdf`                | Final MSc thesis document summarising the full methodology and findings.    |
 | `README.md`                | Project overview and documentation.                                         |
+
 
 
 ## Citation
