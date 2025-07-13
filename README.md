@@ -8,6 +8,13 @@ This repository contains code, data, and results from my Master's thesis project
 - Evaluated model performance using **LightGBM** for both binary (NORM vs ABNORMAL) and multiclass classification across diagnostic superclasses (e.g., NORM, STTC, MI, CD, HYP).
 - Compared extracted features with existing benchmark datasets, including **EcgDeli** and **UniG**, using **Pearson cross-correlation**.
 
+## Dataset
+
+This project uses the [PTB-XL dataset](https://physionet.org/content/ptb-xl/1.0.1/), a large publicly available electrocardiography dataset published on PhysioNet.
+
+**Note:** Due to licensing terms and file size, the dataset is **not included** in this repository.  
+You can download it directly from [PhysioNet here](https://physionet.org/content/ptb-xl/1.0.1/) and follow the usage guidelines provided by the authors.
+
 ## Key Findings
 - Binary Classification achieved the highest accuracy of 83%, and Multiclass Classification had 68%.
 - Best performance on **Normal** and **STTC** classes (F1-scores of 82% and 69%)
