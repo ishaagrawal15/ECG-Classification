@@ -13,7 +13,7 @@ This repository contains code, data, and results from my Master's thesis project
 - Lower performance on **MI**, **HYP**, and **CD**, influenced by **class imbalance**
 - Strong correlation between phase-folded features and EcgDeli/UniG (e.g., R amplitude: 95%)
 
-##Citation
+## Citation
 If using this project or methods, please cite:
 > Agrawal, I. (2025). *Parameterising ECG Waveforms to Uncover Pathology: A Phase-Folded Approach*. MSc Thesis, University of Aberdeen.
 
