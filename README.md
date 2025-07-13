@@ -17,5 +17,5 @@ This repository contains code, data, and results from my Master's thesis project
 If using this project or methods, please cite:
 > Agrawal, I. (2025). *Parameterising ECG Waveforms to Uncover Pathology: A Phase-Folded Approach*. MSc Thesis, University of Aberdeen.
 
-##Contact
+## Contact
 For questions or collaboration inquiries, feel free to reach out at: isha15aug@outlook.com
